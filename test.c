@@ -1,4 +1,4 @@
 int main(){
-    printf("hello world");
+    printf("hello world am bad");
     return 0;
 }
